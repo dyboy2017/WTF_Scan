@@ -1,0 +1,165 @@
+
+body{
+	/*background-image: url("https://desk-fd.zol-img.com.cn/t_s1366x768c5/g5/M00/02/07/ChMkJlqY_RuIan7sAAulVLYx4zcAAlEewK65CoAC6Vs300.jpg");*/
+	background-repeat:repeat-y;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 0px;
+	margin: 0px;
+}
+.navbar{
+	min-height: 63px;
+}
+.navbar-brand{
+	padding: 3px 15px;
+}
+.navbar-default {
+    background-color: #393D49;
+}
+.navbar {
+    border-radius:0px!important;
+}
+.navbar-brand > img {
+    margin-top: 4px;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    margin-top: 7px;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+    font-size: 16px;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus{
+	color: #5cb85c;
+}
+.search_box{
+	margin: 0px auto;
+}
+.form-control:focus {
+    border-color: #5cb85c;
+    outline: 0;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgb(91, 183, 92);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgb(92, 184, 92);
+}
+
+
+/*查询结果div*/
+.result{
+	width: 90%;
+	margin: 0px auto;
+	/*color: #fff;*/
+}
+
+
+.tab-pane p{
+	color:#333;
+}
+
+@keyframes circle{
+from{transform:rotate(0)}
+to{transform:rotate(360deg)}
+}
+
+.load_icon{
+	color: #5cb85c;
+	-webkit-animation: circle 1.5s infinite linear;
+	animation:circle 1.2s linear infinite
+}
+
+
+
+
+
+
+
+
+
+#pagination_14{
+	text-align: center;
+}
+.panel-success{
+	border:1px solid #4cae4c;
+	color: gray;
+}
+.color_green{
+	background-color: #4cae4c!important;
+}
+.color_green h3{
+	color:#fff;
+}
+#pagination_14{
+	display: none;
+}
+.color_green a{
+	color: red;
+	float: right;
+	text-decoration:underline;
+}
+
+
+
+
+
+
+
+
+
+
+.red_title{
+	color:red;
+	font-weight:bold;
+	text-align: center;
+	width: 100%;
+	float: center;
+}
+.pagination > .active > a{
+	background-color: #5cb85c;
+    border-color: #5cb85c;
+}
+.red_text{
+	color:red;
+}
+
+
+
+
+
+
+
+
+/*底部样式*/
+.footer{
+	position: relative;
+	bottom:10px;
+	color: #333;
+	height: 100px;
+	width: 100%;
+	text-align: center;
+}
+.friend_links{
+	color: #333;
+}
+.friend_links ul li{
+	position: fixed;
+	list-style: none;
+	display:inline;
+	padding: 5px;
+	text-align：0px;
+}
+.friend_links ul li a{
+	color: #333;
+	text-decoration: none;
+}
+.friend_links ul li a:hover{
+	color: #5cb85c;
+	text-decoration: none;
+}
+.description{
+	color: #333;
+	text-align: center;
+	font-size: 13px;
+}
+.copyright{
+	display: inline;
+	font-size: 13px;
+}
