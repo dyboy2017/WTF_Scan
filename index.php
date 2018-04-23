@@ -45,7 +45,7 @@
 	      <ul class="nav navbar-nav navbar-right">
 	        <li><a href="#" target="_blank"><i class="fa fa-bank"></i> 首页</a></li>
 	        <li><a href="about.html" target="_blank"><i class="fa fa-user"></i> 关于我们</a></li>
-	        <li><a href="https://github.com" target="_blank"><i class="fa fa-github"></i> 开源地址</a></li>
+	        <li><a href="https://github.com/dyboy2017/WTF_Scan/" target="_blank"><i class="fa fa-github"></i> 开源地址</a></li>
 	        <li><a href="http://wpa.qq.com/msgrd?v=3&uin=1099718640&site=qq&menu=yes" target="_blank"><i class="fa fa-qq"></i> QQ联系</a></li>
 	      </ul>
 	    </div>
