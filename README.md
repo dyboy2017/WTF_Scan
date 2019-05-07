@@ -1,3 +1,9 @@
+[![Build Status](https://travis-ci.org/dyboy2017/WTF_Scan.svg?branch=master)](https://travis-ci.org/dyboy2017/WTF_Scan)
+[![Latest Stable Version](https://poser.pugx.org/dyboy2017/WTF_Scan/v/stable)](https://packagist.org/packages/dyboy2017/WTF_Scan)
+[![Total Downloads](https://poser.pugx.org/dyboy2017/WTF_Scan/downloads)](https://packagist.org/packages/dyboy2017/WTF_Scan)
+[![Latest Unstable Version](https://poser.pugx.org/dyboy2017/WTF_Scan/v/unstable)](https://packagist.org/packages/dyboy2017/WTF_Scan)
+[![License](https://poser.pugx.org/dyboy2017/WTF_Scan/license)](https://packagist.org/packages/dyboy2017/WTF_Scan)
+
 # WTF_Scan
 一款WEB端的在线敏感资产扫描器，扫描网站中的指纹、漏洞及相关敏感信息，针对已经识别的CMS指纹，进行二次0day扫描利用，一键GetShell也不是不可能！！！
 ![image](https://upload-images.jianshu.io/upload_images/6661013-a5ca96416f635dc1.png)
